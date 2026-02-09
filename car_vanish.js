@@ -25,6 +25,7 @@
             super();
             this._shadowRoot = this.attachShadow({ mode: "open" });
             this._shadowRoot.appendChild(template.content.cloneNode(true));
+            console.log("CAR WIDGET: Logic Initialized");
         }
 
         // This runs automatically when the story loads
@@ -43,6 +44,7 @@
 
     customElements.define("com-yourname-car-vanish", CarVanishWidget);
 })();
+
 
 
 
