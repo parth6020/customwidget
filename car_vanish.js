@@ -16,7 +16,7 @@
             }
         </style>
         <div id="car-container">
-            <img src="https://cdn.jsdelivr.net/gh/parth6020/customwidget@latest/IMAGE.gif" alt="Car Animation">
+            <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxsMWg4dHRlaWY0MThqOXk0aWNuMjdzcHBvcWRmMXc3OWRpMmtjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPdvh8ODxvgZ0Jy/giphy.gif" alt="Car Animation">
         </div>
     `;
 
@@ -43,6 +43,7 @@
 
     customElements.define("com-yourname-car-vanish", CarVanishWidget);
 })();
+
 
 
 
