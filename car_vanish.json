@@ -1,6 +1,6 @@
 {
     "id": "com.yourname.car.vanish",
-    "version": "1.0.10",
+    "version": "2.0.0",
     "name": "Auto Vanish Car",
     "description": "A car GIF that disappears after 5 seconds",
     "newInstancePrefix": "VanishCar",
@@ -20,6 +20,7 @@
     "methods": {},
     "events": {}
 }
+
 
 
 
