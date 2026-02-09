@@ -16,7 +16,7 @@
             }
         </style>
         <div id="car-container">
-            <img src="cars-cars2.gif" alt="Car Animation">
+            <img src="https://github.com/parth6020/customwidget/blob/main/cars-cars2.gif" alt="Car Animation">
         </div>
     `;
 
@@ -43,4 +43,5 @@
 
     customElements.define("com-yourname-car-vanish", CarVanishWidget);
 })();
+
 
