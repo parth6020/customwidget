@@ -11,7 +11,7 @@
         {
             "kind": "main",
             "tag": "com-yourname-car-vanish",
-            "url": "https://www.vecteezy.com/video/70731271-red-old-style-vintage-car-animation-on-green-screen-background-4k-art",
+            "url": "https://raw.githubusercontent.com/parth6020/customwidget/refs/heads/main/car_vanish.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
@@ -20,4 +20,5 @@
     "methods": {},
     "events": {}
 }
+
 
