@@ -1,0 +1,23 @@
+{
+    "id": "com.yourname.car.vanish",
+    "version": "1.0.0",
+    "name": "Auto Vanish Car",
+    "description": "A car GIF that disappears after 5 seconds",
+    "newInstancePrefix": "VanishCar",
+    "vendor": "YourName",
+    "eula": "",
+    "license": "MIT",
+    "webcomponents": [
+        {
+            "kind": "main",
+            "tag": "com-yourname-car-vanish",
+            "url": "https://www.vecteezy.com/video/70731271-red-old-style-vintage-car-animation-on-green-screen-background-4k-art",
+            "integrity": "",
+            "ignoreIntegrity": true
+        }
+    ],
+    "properties": {},
+    "methods": {},
+    "events": {}
+}
+
